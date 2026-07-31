@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Streamlit Caching
+.streamlit/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# Output Media & Large Test Files
+*.mp4
+*.avi
